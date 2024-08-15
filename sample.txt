@@ -1,0 +1,13 @@
+
+d -> day
+n -> night
+
+01  -> Clear        = Sunny
+02  -> Few Clouds   = Windy
+03  -> Clouds       = Windy
+04  -> Dark Clouds  = Dark
+09  -> Rain         = Rain
+10  -> Rain         = Rain
+11  -> Thunderstorm = Storms
+13  -> Snow         = Snow
+50  -> Haze         = Fog
